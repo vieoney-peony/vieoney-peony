@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Vieoney 👋
+
+## 🚀 About Me
+I'm currently pursuing my Master's in Data Science at Hanoi University of Science and Technology.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,go)](https://skillicons.dev)
 
 <!--
 **vieoney-peony/vieoney-peony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
